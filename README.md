@@ -4,7 +4,6 @@
 📌 **Développé par** : **Groupe 4**  
 - OKA Celaire
 - Salamata Nourou MBAYE
-- Khadim Mbacké FALL
 - Rostom MOUADDEB
 
 
