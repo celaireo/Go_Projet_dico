@@ -37,7 +37,7 @@ go version
 ## 🚀 **Installation et Démarrage**
 ### **1️⃣ Cloner le dépôt**
 ```sh
-git clone https://github.com/Lucasmes93/Go_Project_Dico.git
+git clone https://github.com/celaireo/Go_Project_Dico.git
 cd Go_Project_Dico
 ```
 
