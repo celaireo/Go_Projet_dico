@@ -2,7 +2,8 @@
 🚀 **Dictionnaire en Go 1.24.0** : Une API REST permettant d'ajouter, modifier, rechercher et supprimer des mots dans un dictionnaire, avec persistance des données et gestion des accès concurrents.
 
 📌 **Développé par** : **Groupe 4**  
-- OKA Celaire 
+- OKA Celaire
+- Rostom MOUADDEB
 
 
 ---
